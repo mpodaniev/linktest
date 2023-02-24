@@ -1,0 +1,11 @@
+.item .btn {
+  background-color: #2F048E;
+}
+
+.item.has-phone.has-link .apply .btn-phone-renew {
+  color: #2F048E;
+}
+
+.item .btn-phone-renew {
+  border-color: #2F048E;
+}
